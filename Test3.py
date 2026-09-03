@@ -1,1 +1,1 @@
-lost
+print ("good morning")
